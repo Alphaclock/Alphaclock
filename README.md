@@ -4,14 +4,21 @@
 🌱 I’m currently learning and exploring different languages and tools\
 👯 I’m looking to collaborate with other content creators\
 🥅 2021 Goals: Contribute more to Open Source projects\
-⚡ Fun fact: Loved to learn and play with the web.\
+⚡ Fun fact: Loved to learn and play with the web.
 
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@drawable/ic_fluent_mail_24_filled" android:state_activated="true"/>
-    <item android:drawable="@drawable/ic_fluent_mail_24_filled" android:state_checked="true"/>
-    <item android:drawable="@drawable/ic_fluent_mail_24_filled" android:state_selected="true"/>
-    <item android:drawable="@drawable/ic_fluent_mail_24_regular"/>
-</selector>
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
 
 [GitHub](http://github.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
